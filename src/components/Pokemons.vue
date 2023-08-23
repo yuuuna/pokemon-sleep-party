@@ -24,7 +24,7 @@ import pokemons from '@/json/pokemons.json';
                 <td>{{ pokemon.ingredients }}</td>
                 <td>{{ pokemon.place }}</td>
                 <td>{{ pokemon.skill }}</td>
-                <td>{{ pokemon.expertise }}</td>
+                <td><span class="badge text-bg-primary">{{ pokemon.expertise }}</span></td>
                 <td>{{ pokemon.sleep_type }}</td>
             </tr>
         </tbody>
