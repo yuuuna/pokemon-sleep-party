@@ -1,0 +1,110 @@
+[
+    {
+        "id": "0",
+        "name": "柿仔果",
+        "type": "一般",
+        "type_en": "normal"
+    },
+    {
+        "id": "1",
+        "name": "蘋野果",
+        "type": "火",
+        "type_en": "fire"
+    },
+    {
+        "id": "2",
+        "name": "橙橙果",
+        "type": "水",
+        "type_en": "water"
+    },
+    {
+        "id": "3",
+        "name": "萄葡果",
+        "type": "電",
+        "type_en": "electric"
+    },
+    {
+        "id": "4",
+        "name": "金枕果",
+        "type": "草",
+        "type_en": "grass"
+    },
+    {
+        "id": "5",
+        "name": "莓莓果",
+        "type": "冰",
+        "type_en": "ice"
+    },
+    {
+        "id": "6",
+        "name": "櫻子果",
+        "type": "格鬥",
+        "type_en": "fighting"
+    },
+    {
+        "id": "7",
+        "name": "零餘果",
+        "type": "毒",
+        "type_en": "poison"
+    },
+    {
+        "id": "8",
+        "name": "勿花果",
+        "type": "地面",
+        "type_en": "ground"
+    },
+    {
+        "id": "9",
+        "name": "椰木果",
+        "type": "飛行",
+        "type_en": "flying"
+    },
+    {
+        "id": "10",
+        "name": "芒芒果",
+        "type": "超能力",
+        "type_en": "psychic"
+    },
+    {
+        "id": "11",
+        "name": "木子果",
+        "type": "蟲",
+        "type_en": "bug"
+    },
+    {
+        "id": "12",
+        "name": "文柚果",
+        "type": "岩石",
+        "type_en": "rock"
+    },
+    {
+        "id": "13",
+        "name": "墨莓果",
+        "type": "幽靈",
+        "type_en": "ghost"
+    },
+    {
+        "id": "14",
+        "name": "番荔果",
+        "type": "龍",
+        "type_en": "dragon"
+    },
+    {
+        "id": "15",
+        "name": "異奇果",
+        "type": "惡",
+        "type_en": "dark"
+    },
+    {
+        "id": "16",
+        "name": "靛莓果",
+        "type": "鋼",
+        "type_en": "steel"
+    },
+    {
+        "id": "17",
+        "name": "桃桃果",
+        "type": "妖精",
+        "type_en": "fairy"
+    }
+]
