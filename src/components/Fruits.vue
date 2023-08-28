@@ -27,6 +27,7 @@ import fruits from '@/json/fruits.json';
     border: 2px solid #AAA;
     border-radius: 10px;
 }
+
 .fruit-title {
     color: #FFF;
     font-weight: 900;
@@ -35,6 +36,7 @@ import fruits from '@/json/fruits.json';
 .fruit-img {
     width: 60%;
 }
+
 .fruit-type {
     color: #FFF;
     font-size: 0.75rem;
@@ -43,7 +45,7 @@ import fruits from '@/json/fruits.json';
     justify-content: center;
     align-items: center;
 }
+
 .fruit-type-img {
     width: 30%;
-}
-</style>
+}</style>

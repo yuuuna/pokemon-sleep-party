@@ -20,7 +20,10 @@ import pokemons from '@/json/pokemons.json';
             <tr v-for="pokemon in pokemons">
                 <td>{{ pokemon.id }}</td>
                 <td>{{ pokemon.name }}</td>
-                <td>{{ pokemon.fruit }}</td>
+                <td>
+                    <img class="fruit-img" :src="`./images/fruits/${pokemon.fruit_id}.png`" />
+                    {{ pokemon.fruit }}
+                </td>
                 <td>{{ pokemon.ingredients }}</td>
                 <td>{{ pokemon.place }}</td>
                 <td>{{ pokemon.skill }}</td>
@@ -30,3 +33,9 @@ import pokemons from '@/json/pokemons.json';
         </tbody>
     </table>
 </template>
+
+<style scoped>
+.fruit-img {
+    width: 20px;
+}
+</style>
