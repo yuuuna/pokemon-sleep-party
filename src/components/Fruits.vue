@@ -48,4 +48,5 @@ import fruits from '@/json/fruits.json';
 
 .fruit-type-img {
     width: 30%;
-}</style>
+}
+</style>
