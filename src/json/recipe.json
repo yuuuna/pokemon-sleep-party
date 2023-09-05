@@ -1,0 +1,923 @@
+[
+    {
+        "id": "0",
+        "type": "咖哩、濃湯",
+        "name": "特選蘋果咖哩",
+        "recipe": [
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "type": "咖哩、濃湯",
+        "name": "炙燒尾肉咖哩",
+        "recipe": [
+            {
+                "expertise_id": "13",
+                "name": "美味尾巴",
+                "number": 8
+            },
+            {
+                "expertise_id": "5",
+                "name": "火辣香草",
+                "number": 25
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "type": "咖哩、濃湯",
+        "name": "太陽之力番茄咖哩",
+        "recipe": [
+            {
+                "expertise_id": "11",
+                "name": "好眠番茄",
+                "number": 10
+            },
+            {
+                "expertise_id": "5",
+                "name": "火辣香草",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "type": "咖哩、濃湯",
+        "name": "絕對睡眠奶油咖哩",
+        "recipe": [
+            {
+                "expertise_id": "3",
+                "name": "窩心洋芋",
+                "number": 18
+            },
+            {
+                "expertise_id": "11",
+                "name": "好眠番茄",
+                "number": 15
+            },
+            {
+                "expertise_id": "12",
+                "name": "放鬆可可",
+                "number": 12
+            },
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 10
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "type": "咖哩、濃湯",
+        "name": "辣味蔥勁十足咖哩",
+        "recipe": [
+            {
+                "expertise_id": "0",
+                "name": "粗枝大蔥",
+                "number": 14
+            },
+            {
+                "expertise_id": "10",
+                "name": "暖暖薑",
+                "number": 10
+            },
+            {
+                "expertise_id": "5",
+                "name": "火辣香草",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "type": "咖哩、濃湯",
+        "name": "蘑菇孢子咖哩",
+        "recipe": [
+            {
+                "expertise_id": "1",
+                "name": "品鮮蘑菇",
+                "number": 14
+            },
+            {
+                "expertise_id": "3",
+                "name": "窩心洋芋",
+                "number": 9
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "type": "咖哩、濃湯",
+        "name": "親子愛咖哩",
+        "recipe": [
+            {
+                "expertise_id": "8",
+                "name": "甜甜蜜",
+                "number": 12
+            },
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 11
+            },
+            {
+                "expertise_id": "2",
+                "name": "特選蛋",
+                "number": 8
+            },
+            {
+                "expertise_id": "3",
+                "name": "窩心洋芋",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "type": "咖哩、濃湯",
+        "name": "吃飽飽起司肉排咖哩",
+        "recipe": [
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 8
+            },
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "type": "咖哩、濃湯",
+        "name": "窩心白醬濃湯",
+        "recipe": [
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 10
+            },
+            {
+                "expertise_id": "3",
+                "name": "窩心洋芋",
+                "number": 8
+            },
+            {
+                "expertise_id": "1",
+                "name": "品鮮蘑菇",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "type": "咖哩、濃湯",
+        "name": "單純白醬濃湯",
+        "recipe": [
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "type": "咖哩、濃湯",
+        "name": "豆製肉排咖哩",
+        "recipe": [
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "type": "咖哩、濃湯",
+        "name": "寶寶甜蜜咖哩",
+        "recipe": [
+            {
+                "expertise_id": "8",
+                "name": "甜甜蜜",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "type": "咖哩、濃湯",
+        "name": "忍者咖哩",
+        "recipe": [
+            {
+                "expertise_id": "14",
+                "name": "萌綠大豆",
+                "number": 15
+            },
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 9
+            },
+            {
+                "expertise_id": "0",
+                "name": "粗枝大蔥",
+                "number": 9
+            },
+            {
+                "expertise_id": "1",
+                "name": "品鮮蘑菇",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "type": "咖哩、濃湯",
+        "name": "日照炸肉排咖哩",
+        "recipe": [
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 10
+            },
+            {
+                "expertise_id": "9",
+                "name": "純粹油",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "type": "咖哩、濃湯",
+        "name": "入口即化蛋捲咖哩",
+        "recipe": [
+            {
+                "expertise_id": "2",
+                "name": "特選蛋",
+                "number": 10
+            },
+            {
+                "expertise_id": "11",
+                "name": "好眠番茄",
+                "number": 6
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "type": "咖哩、濃湯",
+        "name": "健美豆子咖哩",
+        "recipe": [
+            {
+                "expertise_id": "14",
+                "name": "萌綠大豆",
+                "number": 12
+            },
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 6
+            },
+            {
+                "expertise_id": "5",
+                "name": "火辣香草",
+                "number": 4
+            },
+            {
+                "expertise_id": "2",
+                "name": "特選蛋",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "type": "沙拉",
+        "name": "呆呆獸尾巴的胡椒沙拉",
+        "recipe": [
+            {
+                "expertise_id": "13",
+                "name": "美味尾巴",
+                "number": 10
+            },
+            {
+                "expertise_id": "5",
+                "name": "火辣香草",
+                "number": 10
+            },
+            {
+                "expertise_id": "9",
+                "name": "純粹油",
+                "number": 15
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "type": "沙拉",
+        "name": "蘑菇孢子沙拉",
+        "recipe": [
+            {
+                "expertise_id": "1",
+                "name": "品鮮蘑菇",
+                "number": 17
+            },
+            {
+                "expertise_id": "11",
+                "name": "好眠番茄",
+                "number": 8
+            },
+            {
+                "expertise_id": "9",
+                "name": "純粹油",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "type": "沙拉",
+        "name": "撥雪凱撒沙拉",
+        "recipe": [
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 10
+            },
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 6
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "type": "沙拉",
+        "name": "貪吃鬼洋芋沙拉",
+        "recipe": [
+            {
+                "expertise_id": "3",
+                "name": "窩心洋芋",
+                "number": 14
+            },
+            {
+                "expertise_id": "2",
+                "name": "特選蛋",
+                "number": 9
+            },
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 7
+            },
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 6
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "type": "沙拉",
+        "name": "濕潤豆腐沙拉",
+        "recipe": [
+            {
+                "expertise_id": "14",
+                "name": "萌綠大豆",
+                "number": 10
+            },
+            {
+                "expertise_id": "11",
+                "name": "好眠番茄",
+                "number": 6
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "type": "沙拉",
+        "name": "蠻力豪邁沙拉",
+        "recipe": [
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 9
+            },
+            {
+                "expertise_id": "10",
+                "name": "暖暖薑",
+                "number": 6
+            },
+            {
+                "expertise_id": "2",
+                "name": "特選蛋",
+                "number": 5
+            },
+            {
+                "expertise_id": "3",
+                "name": "窩心洋芋",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "type": "沙拉",
+        "name": "豆製火腿沙拉",
+        "recipe": [
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "type": "沙拉",
+        "name": "好眠番茄沙拉",
+        "recipe": [
+            {
+                "expertise_id": "11",
+                "name": "好眠番茄",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "type": "沙拉",
+        "name": "哞哞起司番茄沙拉",
+        "recipe": [
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 12
+            },
+            {
+                "expertise_id": "11",
+                "name": "好眠番茄",
+                "number": 6
+            },
+            {
+                "expertise_id": "9",
+                "name": "純粹油",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "type": "沙拉",
+        "name": "心情不定肉沙拉淋巧克力醬",
+        "recipe": [
+            {
+                "expertise_id": "12",
+                "name": "放鬆可可",
+                "number": 14
+            },
+            {
+                "expertise_id": "6",
+                "name": "豆製肉",
+                "number": 9
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "type": "沙拉",
+        "name": "過熱沙拉",
+        "recipe": [
+            {
+                "expertise_id": "5",
+                "name": "火辣香草",
+                "number": 17
+            },
+            {
+                "expertise_id": "10",
+                "name": "暖暖薑",
+                "number": 10
+            },
+            {
+                "expertise_id": "11",
+                "name": "好眠番茄",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "type": "沙拉",
+        "name": "特選蘋果沙拉",
+        "recipe": [
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "type": "沙拉",
+        "name": "免疫蔥花沙拉",
+        "recipe": [
+            {
+                "expertise_id": "0",
+                "name": "粗枝大蔥",
+                "number": 10
+            },
+            {
+                "expertise_id": "10",
+                "name": "暖暖薑",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "type": "沙拉",
+        "name": "迷人蘋果起司沙拉",
+        "recipe": [
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 15
+            },
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 5
+            },
+            {
+                "expertise_id": "9",
+                "name": "純粹油",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "type": "沙拉",
+        "name": "忍者沙拉",
+        "recipe": [
+            {
+                "expertise_id": "0",
+                "name": "粗枝大蔥",
+                "number": 15
+            },
+            {
+                "expertise_id": "14",
+                "name": "萌綠大豆",
+                "number": 15
+            },
+            {
+                "expertise_id": "1",
+                "name": "品鮮蘑菇",
+                "number": 12
+            },
+            {
+                "expertise_id": "10",
+                "name": "暖暖薑",
+                "number": 11
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "type": "沙拉",
+        "name": "熱風豆腐沙拉",
+        "recipe": [
+            {
+                "expertise_id": "14",
+                "name": "萌綠大豆",
+                "number": 10
+            },
+            {
+                "expertise_id": "5",
+                "name": "火辣香草",
+                "number": 6
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "type": "點心、飲料",
+        "name": "熟成甜薯燒",
+        "recipe": [
+            {
+                "expertise_id": "3",
+                "name": "窩心洋芋",
+                "number": 9
+            },
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "type": "點心、飲料",
+        "name": "不屈薑餅",
+        "recipe": [
+            {
+                "expertise_id": "8",
+                "name": "甜甜蜜",
+                "number": 14
+            },
+            {
+                "expertise_id": "10",
+                "name": "暖暖薑",
+                "number": 12
+            },
+            {
+                "expertise_id": "12",
+                "name": "放鬆可可",
+                "number": 5
+            },
+            {
+                "expertise_id": "2",
+                "name": "特選蛋",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "type": "點心、飲料",
+        "name": "特選蘋果汁",
+        "recipe": [
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "type": "點心、飲料",
+        "name": "手製勁爽汽水",
+        "recipe": [
+            {
+                "expertise_id": "8",
+                "name": "甜甜蜜",
+                "number": 9
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "type": "點心、飲料",
+        "name": "火花薑茶",
+        "recipe": [
+            {
+                "expertise_id": "10",
+                "name": "暖暖薑",
+                "number": 9
+            },
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "type": "點心、飲料",
+        "name": "胖丁百匯布丁",
+        "recipe": [
+            {
+                "expertise_id": "8",
+                "name": "甜甜蜜",
+                "number": 20
+            },
+            {
+                "expertise_id": "2",
+                "name": "特選蛋",
+                "number": 15
+            },
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 10
+            },
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 10
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "type": "點心、飲料",
+        "name": "惡魔之吻水果牛奶",
+        "recipe": [
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 11
+            },
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 9
+            },
+            {
+                "expertise_id": "8",
+                "name": "甜甜蜜",
+                "number": 7
+            },
+            {
+                "expertise_id": "12",
+                "name": "放鬆可可",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "type": "點心、飲料",
+        "name": "祈願蘋果派",
+        "recipe": [
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 12
+            },
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "type": "點心、飲料",
+        "name": "橙夢的排毒茶",
+        "recipe": [
+            {
+                "expertise_id": "10",
+                "name": "暖暖薑",
+                "number": 11
+            },
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 15
+            },
+            {
+                "expertise_id": "1",
+                "name": "品鮮蘑菇",
+                "number": 9
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "type": "點心、飲料",
+        "name": "甜甜香氣巧克力蛋糕",
+        "recipe": [
+            {
+                "expertise_id": "8",
+                "name": "甜甜蜜",
+                "number": 9
+            },
+            {
+                "expertise_id": "12",
+                "name": "放鬆可可",
+                "number": 8
+            },
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "type": "點心、飲料",
+        "name": "哞哞熱鮮奶",
+        "recipe": [
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "type": "點心、飲料",
+        "name": "輕裝豆香蛋糕",
+        "recipe": [
+            {
+                "expertise_id": "2",
+                "name": "特選蛋",
+                "number": 8
+            },
+            {
+                "expertise_id": "14",
+                "name": "萌綠大豆",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "type": "點心、飲料",
+        "name": "活力蛋白飲",
+        "recipe": [
+            {
+                "expertise_id": "14",
+                "name": "萌綠大豆",
+                "number": 15
+            },
+            {
+                "expertise_id": "12",
+                "name": "放鬆可可",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "type": "點心、飲料",
+        "name": "我行我素蔬菜汁",
+        "recipe": [
+            {
+                "expertise_id": "11",
+                "name": "好眠番茄",
+                "number": 9
+            },
+            {
+                "expertise_id": "4",
+                "name": "特選蘋果",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "type": "點心、飲料",
+        "name": "大馬拉薩達",
+        "recipe": [
+            {
+                "expertise_id": "9",
+                "name": "純粹油",
+                "number": 10
+            },
+            {
+                "expertise_id": "7",
+                "name": "哞哞鮮奶",
+                "number": 7
+            },
+            {
+                "expertise_id": "8",
+                "name": "甜甜蜜",
+                "number": 6
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "type": "點心、飲料",
+        "name": "大力士豆香甜甜圈",
+        "recipe": [
+            {
+                "expertise_id": "9",
+                "name": "純粹油",
+                "number": 9
+            },
+            {
+                "expertise_id": "14",
+                "name": "萌綠大豆",
+                "number": 6
+            },
+            {
+                "expertise_id": "12",
+                "name": "放鬆可可",
+                "number": 7
+            }
+        ]
+    }
+]
