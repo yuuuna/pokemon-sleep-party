@@ -1,6 +1,6 @@
 [
     {
-        "id": "0001",
+        "id": "001",
         "name": "妙蛙種子",
         "fruit": "金枕果",
         "fruit_id": "4",
@@ -23,14 +23,14 @@
                 "name": "好眠番茄"
             }
         ],
-        "place_id": "0",
+        "place_id": "1",
         "place": "萌綠之島",
-        "skill": "能量填充S",
+        "skill": "食材獲取S",
         "expertise": "食材",
         "sleep_type": "淺淺入夢"
     },
     {
-        "id": "0002",
+        "id": "002",
         "name": "妙蛙草",
         "fruit": "金枕果",
         "fruit_id": "4",
@@ -53,14 +53,14 @@
                 "name": "好眠番茄"
             }
         ],
-        "place_id": "0",
+        "place_id": "1",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "食材",
         "sleep_type": "淺淺入夢"
     },
     {
-        "id": "0003",
+        "id": "003",
         "name": "妙蛙花",
         "fruit": "金枕果",
         "fruit_id": "4",
@@ -83,674 +83,14 @@
                 "name": "好眠番茄"
             }
         ],
-        "place_id": "0",
+        "place_id": "1",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "食材",
         "sleep_type": "淺淺入夢"
     },
     {
-        "id": "0010",
-        "name": "綠毛蟲",
-        "fruit": "木子果",
-        "fruit_id": "11",
-        "ingredients_id": [
-            "8",
-            "11",
-            "14"
-        ],
-        "ingredients": [
-            {
-                "id": "8",
-                "name": "甜甜蜜"
-            },
-            {
-                "id": "11",
-                "name": "好眠番茄"
-            },
-            {
-                "id": "14",
-                "name": "萌綠大豆"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "食材獲取S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0011",
-        "name": "鐵甲蛹",
-        "fruit": "木子果",
-        "fruit_id": "11",
-        "ingredients_id": [
-            "8",
-            "11",
-            "14"
-        ],
-        "ingredients": [
-            {
-                "id": "8",
-                "name": "甜甜蜜"
-            },
-            {
-                "id": "11",
-                "name": "好眠番茄"
-            },
-            {
-                "id": "14",
-                "name": "萌綠大豆"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "食材獲取S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0012",
-        "name": "巴大蝶",
-        "fruit": "木子果",
-        "fruit_id": "11",
-        "ingredients_id": [
-            "8",
-            "11",
-            "14"
-        ],
-        "ingredients": [
-            {
-                "id": "8",
-                "name": "甜甜蜜"
-            },
-            {
-                "id": "11",
-                "name": "好眠番茄"
-            },
-            {
-                "id": "14",
-                "name": "萌綠大豆"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "食材獲取S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0023",
-        "name": "阿柏蛇",
-        "fruit": "零餘果",
-        "fruit_id": "7",
-        "ingredients_id": [
-            "6",
-            "2",
-            "5"
-        ],
-        "ingredients": [
-            {
-                "id": "6",
-                "name": "豆製肉"
-            },
-            {
-                "id": "2",
-                "name": "特選蛋"
-            },
-            {
-                "id": "5",
-                "name": "火辣香草"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "活力填充S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0024",
-        "name": "阿柏怪",
-        "fruit": "零餘果",
-        "fruit_id": "7",
-        "ingredients_id": [
-            "6",
-            "2",
-            "5"
-        ],
-        "ingredients": [
-            {
-                "id": "6",
-                "name": "豆製肉"
-            },
-            {
-                "id": "2",
-                "name": "特選蛋"
-            },
-            {
-                "id": "5",
-                "name": "火辣香草"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "活力填充S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0054",
-        "name": "可達鴨",
-        "fruit": "橙橙果",
-        "fruit_id": "2",
-        "ingredients_id": [
-            "12",
-            "4",
-            "1",
-            "6"
-        ],
-        "ingredients": [
-            {
-                "id": "12",
-                "name": "放鬆可可"
-            },
-            {
-                "id": "4",
-                "name": "特選蘋果"
-            },
-            {
-                "id": "1",
-                "name": "品鮮蘑菇"
-            },
-            {
-                "id": "6",
-                "name": "豆製肉"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "技能",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0056",
-        "name": "猴怪",
-        "fruit": "櫻子果",
-        "fruit_id": "6",
-        "ingredients_id": [
-            "6",
-            "1",
-            "8"
-        ],
-        "ingredients": [
-            {
-                "id": "6",
-                "name": "豆製肉"
-            },
-            {
-                "id": "1",
-                "name": "品鮮蘑菇"
-            },
-            {
-                "id": "8",
-                "name": "甜甜蜜"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0057",
-        "name": "火爆猴",
-        "fruit": "櫻子果",
-        "fruit_id": "6",
-        "ingredients_id": [
-            "6",
-            "1",
-            "8"
-        ],
-        "ingredients": [
-            {
-                "id": "6",
-                "name": "豆製肉"
-            },
-            {
-                "id": "1",
-                "name": "品鮮蘑菇"
-            },
-            {
-                "id": "8",
-                "name": "甜甜蜜"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0069",
-        "name": "喇叭花",
-        "fruit": "金枕果",
-        "fruit_id": "4",
-        "ingredients_id": [
-            "11",
-            "3",
-            "0"
-        ],
-        "ingredients": [
-            {
-                "id": "11",
-                "name": "好眠番茄"
-            },
-            {
-                "id": "3",
-                "name": "窩心洋芋"
-            },
-            {
-                "id": "0",
-                "name": "粗枝大蔥"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "活力填充S",
-        "expertise": "食材",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0070",
-        "name": "口呆花",
-        "fruit": "金枕果",
-        "fruit_id": "4",
-        "ingredients_id": [
-            "11",
-            "3",
-            "0"
-        ],
-        "ingredients": [
-            {
-                "id": "11",
-                "name": "好眠番茄"
-            },
-            {
-                "id": "3",
-                "name": "窩心洋芋"
-            },
-            {
-                "id": "0",
-                "name": "粗枝大蔥"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "食材",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0071",
-        "name": "大食花",
-        "fruit": "金枕果",
-        "fruit_id": "4",
-        "ingredients_id": [
-            "11",
-            "3",
-            "0"
-        ],
-        "ingredients": [
-            {
-                "id": "11",
-                "name": "好眠番茄"
-            },
-            {
-                "id": "3",
-                "name": "窩心洋芋"
-            },
-            {
-                "id": "0",
-                "name": "粗枝大蔥"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "活力填充S",
-        "expertise": "食材",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0092",
-        "name": "鬼斯",
-        "fruit": "墨莓果",
-        "fruit_id": "13",
-        "ingredients_id": [
-            "5",
-            "1",
-            "9"
-        ],
-        "ingredients": [
-            {
-                "id": "5",
-                "name": "火辣香草"
-            },
-            {
-                "id": "1",
-                "name": "品鮮蘑菇"
-            },
-            {
-                "id": "9",
-                "name": "純粹油"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "食材",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0093",
-        "name": "鬼斯通",
-        "fruit": "墨莓果",
-        "fruit_id": "13",
-        "ingredients_id": [
-            "5",
-            "1",
-            "9"
-        ],
-        "ingredients": [
-            {
-                "id": "5",
-                "name": "火辣香草"
-            },
-            {
-                "id": "1",
-                "name": "品鮮蘑菇"
-            },
-            {
-                "id": "9",
-                "name": "純粹油"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "食材",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0127",
-        "name": "凱羅斯",
-        "fruit": "木子果",
-        "fruit_id": "11",
-        "ingredients_id": [
-            "8",
-            "6"
-        ],
-        "ingredients": [
-            {
-                "id": "8",
-                "name": "甜甜蜜"
-            },
-            {
-                "id": "6",
-                "name": "豆製肉"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "食材",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0152",
-        "name": "菊草葉",
-        "fruit": "金枕果",
-        "fruit_id": "4",
-        "ingredients_id": [
-            "12",
-            "8",
-            "0"
-        ],
-        "ingredients": [
-            {
-                "id": "12",
-                "name": "放鬆可可"
-            },
-            {
-                "id": "8",
-                "name": "甜甜蜜"
-            },
-            {
-                "id": "0",
-                "name": "粗枝大蔥"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0214",
-        "name": "赫拉克羅斯",
-        "fruit": "木子果",
-        "fruit_id": "11",
-        "ingredients_id": [
-            "8",
-            "1"
-        ],
-        "ingredients": [
-            {
-                "id": "8",
-                "name": "甜甜蜜"
-            },
-            {
-                "id": "1",
-                "name": "品鮮蘑菇"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "食材獲取S",
-        "expertise": "技能",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0228",
-        "name": "戴魯比",
-        "fruit": "異奇果",
-        "fruit_id": "15",
-        "ingredients_id": [
-            "5",
-            "10",
-            "0"
-        ],
-        "ingredients": [
-            {
-                "id": "5",
-                "name": "火辣香草"
-            },
-            {
-                "id": "10",
-                "name": "暖暖薑"
-            },
-            {
-                "id": "0",
-                "name": "粗枝大蔥"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0288",
-        "name": "過動猿",
-        "fruit": "柿仔果",
-        "fruit_id": "0",
-        "ingredients_id": [
-            "11",
-            "8",
-            "4"
-        ],
-        "ingredients": [
-            {
-                "id": "11",
-                "name": "好眠番茄"
-            },
-            {
-                "id": "8",
-                "name": "甜甜蜜"
-            },
-            {
-                "id": "4",
-                "name": "特選蘋果"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "食材獲取S",
-        "expertise": "樹果",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0316",
-        "name": "溶食獸",
-        "fruit": "零餘果",
-        "fruit_id": "7",
-        "ingredients_id": [
-            "14",
-            "1"
-        ],
-        "ingredients": [
-            {
-                "id": "14",
-                "name": "萌綠大豆"
-            },
-            {
-                "id": "1",
-                "name": "品鮮蘑菇"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "夢之碎片獲取S",
-        "expertise": "技能",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0317",
-        "name": "吞食獸",
-        "fruit": "零餘果",
-        "fruit_id": "7",
-        "ingredients_id": [
-            "14",
-            "1"
-        ],
-        "ingredients": [
-            {
-                "id": "14",
-                "name": "萌綠大豆"
-            },
-            {
-                "id": "1",
-                "name": "品鮮蘑菇"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "夢之碎片獲取S",
-        "expertise": "技能",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0359",
-        "name": "阿勃梭魯",
-        "fruit": "異奇果",
-        "fruit_id": "15",
-        "ingredients_id": [
-            "12",
-            "1"
-        ],
-        "ingredients": [
-            {
-                "id": "12",
-                "name": "放鬆可可"
-            },
-            {
-                "id": "1",
-                "name": "品鮮蘑菇"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "食材",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0453",
-        "name": "不良蛙",
-        "fruit": "零餘果",
-        "fruit_id": "7",
-        "ingredients_id": [
-            "9",
-            "6"
-        ],
-        "ingredients": [
-            {
-                "id": "9",
-                "name": "純粹油"
-            },
-            {
-                "id": "6",
-                "name": "豆製肉"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "食材",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0454",
-        "name": "毒骷蛙",
-        "fruit": "零餘果",
-        "fruit_id": "7",
-        "ingredients_id": [
-            "9",
-            "6"
-        ],
-        "ingredients": [
-            {
-                "id": "9",
-                "name": "純粹油"
-            },
-            {
-                "id": "6",
-                "name": "豆製肉"
-            }
-        ],
-        "place_id": "0",
-        "place": "萌綠之島",
-        "skill": "能量填充S",
-        "expertise": "食材",
-        "sleep_type": "淺淺入夢"
-    },
-    {
-        "id": "0004",
+        "id": "004",
         "name": "小火龍",
         "fruit": "蘋野果",
         "fruit_id": "1",
@@ -773,10 +113,2903 @@
                 "name": "火辣香草"
             }
         ],
-        "place_id": "0",
+        "place_id": "1",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "食材",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "005",
+        "name": "火恐龍",
+        "fruit": "蘋野果",
+        "fruit_id": "1",
+        "ingredients_id": [
+            "6",
+            "10",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "食材",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "006",
+        "name": "噴火龍",
+        "fruit": "蘋野果",
+        "fruit_id": "1",
+        "ingredients_id": [
+            "6",
+            "10",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "食材",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "007",
+        "name": "傑尼龜",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "食材",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "008",
+        "name": "卡咪龜",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "食材",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "009",
+        "name": "水箭龜",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "食材",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "010",
+        "name": "綠毛蟲",
+        "fruit": "木子果",
+        "fruit_id": "11",
+        "ingredients_id": [
+            "8",
+            "11",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "011",
+        "name": "鐵甲蛹",
+        "fruit": "木子果",
+        "fruit_id": "11",
+        "ingredients_id": [
+            "8",
+            "11",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "012",
+        "name": "巴大蝶",
+        "fruit": "木子果",
+        "fruit_id": "11",
+        "ingredients_id": [
+            "8",
+            "11",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "019",
+        "name": "小拉達",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "4",
+            "14",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "020",
+        "name": "拉達",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "4",
+            "14",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "023",
+        "name": "阿柏蛇",
+        "fruit": "零餘果",
+        "fruit_id": "7",
+        "ingredients_id": [
+            "6",
+            "2",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "024",
+        "name": "阿柏怪",
+        "fruit": "零餘果",
+        "fruit_id": "7",
+        "ingredients_id": [
+            "6",
+            "2",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "025",
+        "name": "皮卡丘",
+        "fruit": "萄葡果",
+        "fruit_id": "3",
+        "ingredients_id": [
+            "4",
+            "2",
+            "10"
+        ],
+        "ingredients": [
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "樹果",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "026",
+        "name": "雷丘",
+        "fruit": "萄葡果",
+        "fruit_id": "3",
+        "ingredients_id": [
+            "4",
+            "2",
+            "10"
+        ],
+        "ingredients": [
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "樹果",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "039",
+        "name": "胖丁",
+        "fruit": "桃桃果",
+        "fruit_id": "17",
+        "ingredients_id": [
+            "8",
+            "9",
+            "12"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力全體療癒S",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "040",
+        "name": "胖可丁",
+        "fruit": "桃桃果",
+        "fruit_id": "17",
+        "ingredients_id": [
+            "8",
+            "9",
+            "12"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力全體療癒S",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "050",
+        "name": "地鼠",
+        "fruit": "勿花果",
+        "fruit_id": "8",
+        "ingredients_id": [
+            "11",
+            "0",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "食材",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "051",
+        "name": "三地鼠",
+        "fruit": "勿花果",
+        "fruit_id": "8",
+        "ingredients_id": [
+            "11",
+            "0",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "食材",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "052",
+        "name": "喵喵",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "7",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "夢之碎片獲取S1",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "053",
+        "name": "貓老大",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "7",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "夢之碎片獲取S1",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "054",
+        "name": "可達鴨",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "12",
+            "4",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "技能",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "055",
+        "name": "哥達鴨",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "12",
+            "4",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "2",
+        "place": "天青沙灘",
+        "skill": "能量填充S2",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "056",
+        "name": "猴怪",
+        "fruit": "櫻子果",
+        "fruit_id": "6",
+        "ingredients_id": [
+            "6",
+            "1",
+            "8"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "057",
+        "name": "火爆猴",
+        "fruit": "櫻子果",
+        "fruit_id": "6",
+        "ingredients_id": [
+            "6",
+            "1",
+            "8"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "058",
+        "name": "卡蒂狗",
+        "fruit": "蘋野果",
+        "fruit_id": "1",
+        "ingredients_id": [
+            "5",
+            "6",
+            "7"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "幫手支援S",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "059",
+        "name": "風速狗",
+        "fruit": "蘋野果",
+        "fruit_id": "1",
+        "ingredients_id": [
+            "5",
+            "6",
+            "7"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "幫手支援S",
+        "expertise": "技能",
+        "sleep_type": "薰香"
+    },
+    {
+        "id": "069",
+        "name": "喇叭芽",
+        "fruit": "金枕果",
+        "fruit_id": "4",
+        "ingredients_id": [
+            "11",
+            "3",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "070",
+        "name": "口呆花",
+        "fruit": "金枕果",
+        "fruit_id": "4",
+        "ingredients_id": [
+            "11",
+            "3",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "071",
+        "name": "大食花",
+        "fruit": "金枕果",
+        "fruit_id": "4",
+        "ingredients_id": [
+            "11",
+            "3",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "074",
+        "name": "小拳石",
+        "fruit": "文柚果",
+        "fruit_id": "12",
+        "ingredients_id": [
+            "14",
+            "1",
+            "3"
+        ],
+        "ingredients": [
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "食材",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "075",
+        "name": "隆隆石",
+        "fruit": "文柚果",
+        "fruit_id": "12",
+        "ingredients_id": [
+            "14",
+            "1",
+            "3"
+        ],
+        "ingredients": [
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "食材",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "076",
+        "name": "隆隆岩",
+        "fruit": "文柚果",
+        "fruit_id": "12",
+        "ingredients_id": [
+            "14",
+            "1",
+            "3"
+        ],
+        "ingredients": [
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            }
+        ],
+        "place_id": "3",
+        "place": "灰褐洞窟",
+        "skill": "能量填充S2",
+        "expertise": "食材",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "079",
+        "name": "呆呆獸",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "12",
+            "13",
+            "11"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "13",
+                "name": "美味尾巴"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力療癒S",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "080",
+        "name": "呆殼獸",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "12",
+            "13",
+            "11"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "13",
+                "name": "美味尾巴"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力療癒S",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "081",
+        "name": "小磁怪",
+        "fruit": "靛莓果",
+        "fruit_id": "16",
+        "ingredients_id": [
+            "9",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "料理強化S",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "082",
+        "name": "三合一磁怪",
+        "fruit": "靛莓果",
+        "fruit_id": "16",
+        "ingredients_id": [
+            "9",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "料理強化S",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "084",
+        "name": "嘟嘟",
+        "fruit": "椰木果",
+        "fruit_id": "9",
+        "ingredients_id": [
+            "14",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "085",
+        "name": "嘟嘟利",
+        "fruit": "椰木果",
+        "fruit_id": "9",
+        "ingredients_id": [
+            "14",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "092",
+        "name": "鬼斯",
+        "fruit": "墨莓果",
+        "fruit_id": "13",
+        "ingredients_id": [
+            "5",
+            "1",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "093",
+        "name": "鬼斯通",
+        "fruit": "墨莓果",
+        "fruit_id": "13",
+        "ingredients_id": [
+            "5",
+            "1",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "094",
+        "name": "耿鬼",
+        "fruit": "墨莓果",
+        "fruit_id": "13",
+        "ingredients_id": [
+            "5",
+            "1",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "3",
+        "place": "灰褐洞窟",
+        "skill": "能量填充S2",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "104",
+        "name": "卡拉卡拉",
+        "fruit": "勿花果",
+        "fruit_id": "8",
+        "ingredients_id": [
+            "10",
+            "12"
+        ],
+        "ingredients": [
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "105",
+        "name": "嘎啦嘎啦",
+        "fruit": "勿花果",
+        "fruit_id": "8",
+        "ingredients_id": [
+            "10",
+            "12"
+        ],
+        "ingredients": [
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "115",
+        "name": "袋獸",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "10",
+            "3",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "食材",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "127",
+        "name": "凱羅斯",
+        "fruit": "木子果",
+        "fruit_id": "11",
+        "ingredients_id": [
+            "8",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "132",
+        "name": "百變怪",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "9",
+            "0",
+            "13"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            },
+            {
+                "id": "13",
+                "name": "美味尾巴"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "133",
+        "name": "伊布",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "134",
+        "name": "水伊布",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "2",
+        "place": "天青沙灘",
+        "skill": "食材獲取S",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "135",
+        "name": "雷伊布",
+        "fruit": "萄葡果",
+        "fruit_id": "3",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "幫手支援S",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "136",
+        "name": "火伊布",
+        "fruit": "蘋野果",
+        "fruit_id": "1",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "料理強化S",
+        "expertise": "技能",
+        "sleep_type": "薰香"
+    },
+    {
+        "id": "152",
+        "name": " 菊草葉",
+        "fruit": "金枕果",
+        "fruit_id": "4",
+        "ingredients_id": [
+            "12",
+            "8",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "153",
+        "name": "月桂葉",
+        "fruit": "金枕果",
+        "fruit_id": "4",
+        "ingredients_id": [
+            "12",
+            "8",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "薰香"
+    },
+    {
+        "id": "154",
+        "name": "大竺葵",
+        "fruit": "金枕果",
+        "fruit_id": "4",
+        "ingredients_id": [
+            "12",
+            "8",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "薰香"
+    },
+    {
+        "id": "155",
+        "name": "火球鼠",
+        "fruit": "蘋野果",
+        "fruit_id": "1",
+        "ingredients_id": [
+            "10",
+            "5",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "156",
+        "name": "火岩鼠",
+        "fruit": "蘋野果",
+        "fruit_id": "1",
+        "ingredients_id": [
+            "10",
+            "5",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "薰香"
+    },
+    {
+        "id": "157",
+        "name": "火爆獸",
+        "fruit": "蘋野果",
+        "fruit_id": "1",
+        "ingredients_id": [
+            "10",
+            "5",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "薰香"
+    },
+    {
+        "id": "158",
+        "name": "小鋸鱷",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "6",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "159",
+        "name": "藍鱷",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "6",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "2",
+        "place": "天青沙灘",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "160",
+        "name": "大力鱷",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "6",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "2",
+        "place": "天青沙灘",
+        "skill": "能量填充S2",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "172",
+        "name": "皮丘",
+        "fruit": "萄葡果",
+        "fruit_id": "3",
+        "ingredients_id": [
+            "4",
+            "2",
+            "10"
+        ],
+        "ingredients": [
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "174",
+        "name": "寶寶丁",
+        "fruit": "桃桃果",
+        "fruit_id": "17",
+        "ingredients_id": [
+            "8",
+            "9",
+            "12"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力全體療癒S",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "175",
+        "name": "波克比",
+        "fruit": "桃桃果",
+        "fruit_id": "17",
+        "ingredients_id": [
+            "2",
+            "10",
+            "12"
+        ],
+        "ingredients": [
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "指揮",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "176",
+        "name": "波克基古",
+        "fruit": "桃桃果",
+        "fruit_id": "17",
+        "ingredients_id": [
+            "2",
+            "10",
+            "12"
+        ],
+        "ingredients": [
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "指揮",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "179",
+        "name": "咩利羊",
+        "fruit": "萄葡果",
+        "fruit_id": "3",
+        "ingredients_id": [
+            "5",
+            "2"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充M",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "180",
+        "name": "茸茸羊",
+        "fruit": "萄葡果",
+        "fruit_id": "3",
+        "ingredients_id": [
+            "5",
+            "2"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充M",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "181",
+        "name": "電龍",
+        "fruit": "萄葡果",
+        "fruit_id": "3",
+        "ingredients_id": [
+            "5",
+            "2"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            }
+        ],
+        "place_id": "0",
+        "place": "無",
+        "skill": "能量填充M",
+        "expertise": "技能",
+        "sleep_type": "無"
+    },
+    {
+        "id": "185",
+        "name": "樹才怪",
+        "fruit": "文柚果",
+        "fruit_id": "12",
+        "ingredients_id": [
+            "11",
+            "1",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充M",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "196",
+        "name": "太陽伊布",
+        "fruit": "芒芒果",
+        "fruit_id": "10",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "3",
+        "place": "灰褐洞窟",
+        "skill": "能量填充M",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "197",
+        "name": "月亮伊布",
+        "fruit": "異奇果",
+        "fruit_id": "15",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "3",
+        "place": "灰褐洞窟",
+        "skill": "活力填充S",
+        "expertise": "技能",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "199",
+        "name": "呆呆王",
+        "fruit": "橙橙果",
+        "fruit_id": "2",
+        "ingredients_id": [
+            "12",
+            "13",
+            "11"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "13",
+                "name": "美味尾巴"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            }
+        ],
+        "place_id": "2",
+        "place": "天青沙灘",
+        "skill": "活力療癒S",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "202",
+        "name": "果然翁",
+        "fruit": "芒芒果",
+        "fruit_id": "10",
+        "ingredients_id": [
+            "4",
+            "9",
+            "1"
+        ],
+        "ingredients": [
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力療癒S",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "214",
+        "name": "赫拉克羅斯",
+        "fruit": "木子果",
+        "fruit_id": "11",
+        "ingredients_id": [
+            "8",
+            "1"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "技能",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "228",
+        "name": "戴魯比",
+        "fruit": "異奇果",
+        "fruit_id": "15",
+        "ingredients_id": [
+            "5",
+            "10",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "229",
+        "name": "黑魯加",
+        "fruit": "異奇果",
+        "fruit_id": "15",
+        "ingredients_id": [
+            "5",
+            "10",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "樹果",
+        "sleep_type": "薰香"
+    },
+    {
+        "id": "246",
+        "name": "幼基拉斯",
+        "fruit": "文柚果",
+        "fruit_id": "12",
+        "ingredients_id": [
+            "10",
+            "14",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "食材",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "247",
+        "name": "沙基拉斯",
+        "fruit": "文柚果",
+        "fruit_id": "12",
+        "ingredients_id": [
+            "10",
+            "14",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "3",
+        "place": "灰褐洞窟",
+        "skill": "活力填充S",
+        "expertise": "食材",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "248",
+        "name": "班基拉斯",
+        "fruit": "異奇果",
+        "fruit_id": "15",
+        "ingredients_id": [
+            "10",
+            "14",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "3",
+        "place": "灰褐洞窟",
+        "skill": "活力填充S",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "287",
+        "name": "懶人獺",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "11",
+            "8",
+            "4"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "樹果",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "288",
+        "name": "過動猿",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "11",
+            "8",
+            "4"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "樹果",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "289",
+        "name": "請假王",
+        "fruit": "柿仔果",
+        "fruit_id": "0",
+        "ingredients_id": [
+            "11",
+            "8",
+            "4"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "樹果",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "302",
+        "name": "勾魂眼",
+        "fruit": "異奇果",
+        "fruit_id": "15",
+        "ingredients_id": [],
+        "ingredients": [],
+        "place_id": "3",
+        "place": "灰褐洞窟",
+        "skill": "夢之碎片獲取S2",
+        "expertise": "無",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "316",
+        "name": "溶食獸",
+        "fruit": "零餘果",
+        "fruit_id": "7",
+        "ingredients_id": [
+            "14",
+            "1",
+            "8"
+        ],
+        "ingredients": [
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "夢之碎片獲取S2",
+        "expertise": "技能",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "317",
+        "name": "吞食獸",
+        "fruit": "零餘果",
+        "fruit_id": "7",
+        "ingredients_id": [
+            "14",
+            "1",
+            "8"
+        ],
+        "ingredients": [
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "夢之碎片獲取S2",
+        "expertise": "技能",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "333",
+        "name": "青綿鳥",
+        "fruit": "椰木果",
+        "fruit_id": "9",
+        "ingredients_id": [
+            "2",
+            "14",
+            "4"
+        ],
+        "ingredients": [
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "334",
+        "name": "七夕青鳥",
+        "fruit": "番荔果",
+        "fruit_id": "14",
+        "ingredients_id": [
+            "2",
+            "14",
+            "4"
+        ],
+        "ingredients": [
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            }
+        ],
+        "place_id": "0",
+        "place": "無",
+        "skill": "活力填充S",
+        "expertise": "樹果",
+        "sleep_type": "無"
+    },
+    {
+        "id": "359",
+        "name": "阿勃梭魯",
+        "fruit": "異奇果",
+        "fruit_id": "15",
+        "ingredients_id": [
+            "12",
+            "1"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "360",
+        "name": "小果然",
+        "fruit": "芒芒果",
+        "fruit_id": "10",
+        "ingredients_id": [
+            "4",
+            "9",
+            "1"
+        ],
+        "ingredients": [
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力療癒S",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "363",
+        "name": "海豹球",
+        "fruit": "莓莓果",
+        "fruit_id": "5",
+        "ingredients_id": [
+            "9",
+            "10",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "食材獲取S",
+        "expertise": "樹果",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "364",
+        "name": "海魔獅",
+        "fruit": "莓莓果",
+        "fruit_id": "5",
+        "ingredients_id": [
+            "9",
+            "10",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "0",
+        "place": "無",
+        "skill": "食材獲取S",
+        "expertise": "樹果",
+        "sleep_type": "無"
+    },
+    {
+        "id": "365",
+        "name": "帝牙海獅",
+        "fruit": "莓莓果",
+        "fruit_id": "5",
+        "ingredients_id": [
+            "9",
+            "10",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "0",
+        "place": "無",
+        "skill": "食材獲取S",
+        "expertise": "樹果",
+        "sleep_type": "無"
+    },
+    {
+        "id": "438",
+        "name": "盆才怪",
+        "fruit": "文柚果",
+        "fruit_id": "12",
+        "ingredients_id": [
+            "11",
+            "1",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充M",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "447",
+        "name": "利歐路",
+        "fruit": "櫻子果",
+        "fruit_id": "6",
+        "ingredients_id": [
+            "9",
+            "3",
+            "2"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "夢之碎片獲取S1",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "448",
+        "name": "路卡利歐",
+        "fruit": "櫻子果",
+        "fruit_id": "6",
+        "ingredients_id": [
+            "9",
+            "3",
+            "2"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            }
+        ],
+        "place_id": "0",
+        "place": "無",
+        "skill": "夢之碎片獲取S1",
+        "expertise": "技能",
+        "sleep_type": "無"
+    },
+    {
+        "id": "453",
+        "name": "不良蛙",
+        "fruit": "零餘果",
+        "fruit_id": "7",
+        "ingredients_id": [
+            "9",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "454",
+        "name": "毒骷蛙",
+        "fruit": "零餘果",
+        "fruit_id": "7",
+        "ingredients_id": [
+            "9",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "能量填充S1",
+        "expertise": "食材",
+        "sleep_type": "淺淺入夢"
+    },
+    {
+        "id": "462",
+        "name": "自爆磁怪",
+        "fruit": "靛莓果",
+        "fruit_id": "16",
+        "ingredients_id": [
+            "9",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "料理強化S",
+        "expertise": "技能",
+        "sleep_type": "深深入眠"
+    },
+    {
+        "id": "468",
+        "name": "波克基斯",
+        "fruit": "桃桃果",
+        "fruit_id": "17",
+        "ingredients_id": [
+            "2",
+            "10",
+            "12"
+        ],
+        "ingredients": [
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "指揮",
+        "expertise": "技能",
+        "sleep_type": "安然入睡"
+    },
+    {
+        "id": "470",
+        "name": "葉伊布",
+        "fruit": "金枕果",
+        "fruit_id": "4",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力療癒S",
+        "expertise": "技能",
+        "sleep_type": "薰香"
+    },
+    {
+        "id": "471",
+        "name": "冰伊布",
+        "fruit": "莓莓果",
+        "fruit_id": "5",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "0",
+        "place": "無",
+        "skill": "料理強化S",
+        "expertise": "技能",
+        "sleep_type": "無"
+    },
+    {
+        "id": "700",
+        "name": "仙子伊布",
+        "fruit": "桃桃果",
+        "fruit_id": "17",
+        "ingredients_id": [
+            "7",
+            "12",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "7",
+                "name": "哞哞鮮奶"
+            },
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "1",
+        "place": "萌綠之島",
+        "skill": "活力全體療癒S",
+        "expertise": "技能",
         "sleep_type": "安然入睡"
     }
 ]
