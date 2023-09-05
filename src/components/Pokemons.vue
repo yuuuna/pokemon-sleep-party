@@ -99,7 +99,7 @@ function filterPokemon() {
                 <td>名字</td>
                 <td>樹果</td>
                 <td>食材</td>
-                <td>地點</td>
+                <!-- <td>地點</td> -->
                 <td>主技能</td>
                 <td>專長</td>
                 <td>睡覺類型</td>
@@ -108,7 +108,10 @@ function filterPokemon() {
         <tbody>
             <tr v-for="pokemon in pokemonList">
                 <td>{{ pokemon.id }}</td>
-                <td>{{ pokemon.name }}</td>
+                <td>
+                    <img class="pokemon-img" :src="`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${parseInt(pokemon.id)}.png`" />
+                    {{ pokemon.name }}
+                </td>
                 <td>
                     <img class="fruit-img" :src="`./images/fruits/${pokemon.fruit_id}.png`" />
                     {{ pokemon.fruit }}
@@ -119,7 +122,7 @@ function filterPokemon() {
                             :src="`./images/ingredients/${ingredient.id}.png`" /> {{ ingredient.name }}
                     </span>
                 </td>
-                <td>{{ pokemon.place }}</td>
+                <!-- <td>{{ pokemon.place }}</td> -->
                 <td>{{ pokemon.skill }}</td>
                 <td><span class="badge text-bg-primary">{{ pokemon.expertise }}</span></td>
                 <td>{{ pokemon.sleep_type }}</td>
@@ -129,6 +132,9 @@ function filterPokemon() {
 </template>
 
 <style scoped>
+tr td {
+    vertical-align: middle;
+}
 .fruit-filter {
     display: flex;
     justify-content: space-around;
@@ -153,6 +159,10 @@ function filterPokemon() {
 
 .fruit-img {
     width: 20px;
+}
+
+.pokemon-img {
+    height: 50px;
 }
 
 .btn-filter {
