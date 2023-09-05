@@ -4,7 +4,26 @@
         "name": "妙蛙種子",
         "fruit": "金枕果",
         "fruit_id": "4",
-        "ingredients": "甜甜蜜、窩心洋芋、好眠番茄",
+        "ingredients_id": [
+            "8",
+            "3",
+            "11"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "食材",
@@ -15,7 +34,26 @@
         "name": "妙蛙草",
         "fruit": "金枕果",
         "fruit_id": "4",
-        "ingredients": "甜甜蜜、窩心洋芋、好眠番茄",
+        "ingredients_id": [
+            "8",
+            "3",
+            "11"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "食材",
@@ -26,7 +64,26 @@
         "name": "妙蛙花",
         "fruit": "金枕果",
         "fruit_id": "4",
-        "ingredients": "甜甜蜜、窩心洋芋、好眠番茄",
+        "ingredients_id": [
+            "8",
+            "3",
+            "11"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "食材",
@@ -37,7 +94,26 @@
         "name": "綠毛蟲",
         "fruit": "木子果",
         "fruit_id": "11",
-        "ingredients": "甜甜蜜、好眠番茄、萌綠大豆",
+        "ingredients_id": [
+            "8",
+            "11",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "樹果",
@@ -48,7 +124,26 @@
         "name": "鐵甲蛹",
         "fruit": "木子果",
         "fruit_id": "11",
-        "ingredients": "甜甜蜜、好眠番茄、萌綠大豆",
+        "ingredients_id": [
+            "8",
+            "11",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "樹果",
@@ -59,7 +154,26 @@
         "name": "巴大蝶",
         "fruit": "木子果",
         "fruit_id": "11",
-        "ingredients": "甜甜蜜、好眠番茄、萌綠大豆",
+        "ingredients_id": [
+            "8",
+            "11",
+            "14"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "樹果",
@@ -70,7 +184,26 @@
         "name": "阿柏蛇",
         "fruit": "零餘果",
         "fruit_id": "7",
-        "ingredients": "豆製肉、特選蛋、火辣香草",
+        "ingredients_id": [
+            "6",
+            "2",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "活力填充S",
         "expertise": "樹果",
@@ -81,7 +214,26 @@
         "name": "阿柏怪",
         "fruit": "零餘果",
         "fruit_id": "7",
-        "ingredients": "豆製肉、特選蛋、火辣香草",
+        "ingredients_id": [
+            "6",
+            "2",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "2",
+                "name": "特選蛋"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "活力填充S",
         "expertise": "樹果",
@@ -92,7 +244,31 @@
         "name": "可達鴨",
         "fruit": "橙橙果",
         "fruit_id": "2",
-        "ingredients": "放鬆可可、特選蘋果、品鮮蘑菇、豆製肉",
+        "ingredients_id": [
+            "12",
+            "4",
+            "1",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "技能",
@@ -103,7 +279,26 @@
         "name": "猴怪",
         "fruit": "櫻子果",
         "fruit_id": "6",
-        "ingredients": "豆製肉、品鮮蘑菇、甜甜蜜",
+        "ingredients_id": [
+            "6",
+            "1",
+            "8"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "樹果",
@@ -114,7 +309,26 @@
         "name": "火爆猴",
         "fruit": "櫻子果",
         "fruit_id": "6",
-        "ingredients": "豆製肉、品鮮蘑菇、甜甜蜜",
+        "ingredients_id": [
+            "6",
+            "1",
+            "8"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "樹果",
@@ -125,7 +339,26 @@
         "name": "喇叭花",
         "fruit": "金枕果",
         "fruit_id": "4",
-        "ingredients": "好眠番茄、窩心洋芋、粗枝大蔥",
+        "ingredients_id": [
+            "11",
+            "3",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "活力填充S",
         "expertise": "食材",
@@ -136,7 +369,26 @@
         "name": "口呆花",
         "fruit": "金枕果",
         "fruit_id": "4",
-        "ingredients": "好眠番茄、窩心洋芋、粗枝大蔥",
+        "ingredients_id": [
+            "11",
+            "3",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "食材",
@@ -147,7 +399,26 @@
         "name": "大食花",
         "fruit": "金枕果",
         "fruit_id": "4",
-        "ingredients": "好眠番茄、窩心洋芋、粗枝大蔥",
+        "ingredients_id": [
+            "11",
+            "3",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "3",
+                "name": "窩心洋芋"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "活力填充S",
         "expertise": "食材",
@@ -158,7 +429,26 @@
         "name": "鬼斯",
         "fruit": "墨莓果",
         "fruit_id": "13",
-        "ingredients": "火辣香草、品鮮蘑菇、純粹油",
+        "ingredients_id": [
+            "5",
+            "1",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "食材",
@@ -169,7 +459,26 @@
         "name": "鬼斯通",
         "fruit": "墨莓果",
         "fruit_id": "13",
-        "ingredients": "火辣香草、品鮮蘑菇、純粹油",
+        "ingredients_id": [
+            "5",
+            "1",
+            "9"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            },
+            {
+                "id": "9",
+                "name": "純粹油"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "食材",
@@ -180,7 +489,21 @@
         "name": "凱羅斯",
         "fruit": "木子果",
         "fruit_id": "11",
-        "ingredients": "甜甜蜜、豆製肉",
+        "ingredients_id": [
+            "8",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "食材",
@@ -191,7 +514,26 @@
         "name": "菊草葉",
         "fruit": "金枕果",
         "fruit_id": "4",
-        "ingredients": "放鬆可可、甜甜蜜、粗枝大蔥",
+        "ingredients_id": [
+            "12",
+            "8",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "樹果",
@@ -202,7 +544,21 @@
         "name": "赫拉克羅斯",
         "fruit": "木子果",
         "fruit_id": "11",
-        "ingredients": "甜甜蜜、品鮮蘑菇",
+        "ingredients_id": [
+            "8",
+            "1"
+        ],
+        "ingredients": [
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "技能",
@@ -213,7 +569,26 @@
         "name": "戴魯比",
         "fruit": "異奇果",
         "fruit_id": "15",
-        "ingredients": "火辣香草、暖暖薑、粗枝大蔥",
+        "ingredients_id": [
+            "5",
+            "10",
+            "0"
+        ],
+        "ingredients": [
+            {
+                "id": "5",
+                "name": "火辣香草"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "0",
+                "name": "粗枝大蔥"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "樹果",
@@ -224,7 +599,26 @@
         "name": "過動猿",
         "fruit": "柿仔果",
         "fruit_id": "0",
-        "ingredients": "xx",
+        "ingredients_id": [
+            "11",
+            "8",
+            "4"
+        ],
+        "ingredients": [
+            {
+                "id": "11",
+                "name": "好眠番茄"
+            },
+            {
+                "id": "8",
+                "name": "甜甜蜜"
+            },
+            {
+                "id": "4",
+                "name": "特選蘋果"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "樹果",
@@ -235,7 +629,21 @@
         "name": "溶食獸",
         "fruit": "零餘果",
         "fruit_id": "7",
-        "ingredients": "萌綠大豆、品鮮蘑菇",
+        "ingredients_id": [
+            "14",
+            "1"
+        ],
+        "ingredients": [
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "夢之碎片獲取S",
         "expertise": "技能",
@@ -246,7 +654,21 @@
         "name": "吞食獸",
         "fruit": "零餘果",
         "fruit_id": "7",
-        "ingredients": "萌綠大豆、品鮮蘑菇",
+        "ingredients_id": [
+            "14",
+            "1"
+        ],
+        "ingredients": [
+            {
+                "id": "14",
+                "name": "萌綠大豆"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "夢之碎片獲取S",
         "expertise": "技能",
@@ -257,7 +679,21 @@
         "name": "阿勃梭魯",
         "fruit": "異奇果",
         "fruit_id": "15",
-        "ingredients": "放鬆可可、品鮮蘑菇",
+        "ingredients_id": [
+            "12",
+            "1"
+        ],
+        "ingredients": [
+            {
+                "id": "12",
+                "name": "放鬆可可"
+            },
+            {
+                "id": "1",
+                "name": "品鮮蘑菇"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "食材",
@@ -268,7 +704,21 @@
         "name": "不良蛙",
         "fruit": "零餘果",
         "fruit_id": "7",
-        "ingredients": "純粹油、豆製肉",
+        "ingredients_id": [
+            "9",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "食材",
@@ -279,7 +729,21 @@
         "name": "毒骷蛙",
         "fruit": "零餘果",
         "fruit_id": "7",
-        "ingredients": "純粹油、豆製肉",
+        "ingredients_id": [
+            "9",
+            "6"
+        ],
+        "ingredients": [
+            {
+                "id": "9",
+                "name": "純粹油"
+            },
+            {
+                "id": "6",
+                "name": "豆製肉"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "能量填充S",
         "expertise": "食材",
@@ -290,7 +754,26 @@
         "name": "小火龍",
         "fruit": "蘋野果",
         "fruit_id": "1",
-        "ingredients": "豆製肉、暖暖薑、火辣香草",
+        "ingredients_id": [
+            "6",
+            "10",
+            "5"
+        ],
+        "ingredients": [
+            {
+                "id": "6",
+                "name": "豆製肉"
+            },
+            {
+                "id": "10",
+                "name": "暖暖薑"
+            },
+            {
+                "id": "5",
+                "name": "火辣香草"
+            }
+        ],
+        "place_id": "0",
         "place": "萌綠之島",
         "skill": "食材獲取S",
         "expertise": "食材",
