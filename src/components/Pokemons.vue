@@ -49,18 +49,13 @@ function filterPokemon() {
             <div class="row">
                 <div class="col-2">樹果</div>
                 <div class="col-10 fruit-filter">
-                    <div v-for="fruit in fruits" class="fruit-card" :class="`type-${fruit.type_en}`"
+                    <div v-for="fruit in fruits" class="fruit-card" :class="{ clicked : filterData.fruits.includes(fruit.id) }"
                         @click="filterFruit(fruit.id)">
                         <span class="fruit-title">{{ fruit.name }}</span>
                         <img class="fruit-img pt-1 pb-1" :src="`./images/fruits/${fruit.id}.png`" />
                     </div>
                 </div>
             </div>
-            <!-- <div class="row mt-2">
-                <div class="col-2 offset-5">
-                    <button type="button" class="btn btn-sm btn-primary btn-filter">Filter</button>
-                </div>
-            </div> -->
         </div>
     </div>
     <table class="table table-striped">
@@ -105,6 +100,11 @@ function filterPokemon() {
     display: flex;
     flex-direction: column;
     align-items: center;
+    &.clicked {
+        background-color: #b0ddff;
+        border: #8bb5d4 solid 1px;
+        border-radius: 5px;
+    }
 }
 
 .fruit-title {
