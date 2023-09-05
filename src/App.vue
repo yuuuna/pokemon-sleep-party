@@ -4,10 +4,12 @@ import Header from './components/Header.vue';
 import Menu from './components/Menu.vue';
 import Pokemons from './components/Pokemons.vue';
 import Fruits from './components/Fruits.vue';
+import Personality from './components/Personality.vue';
 
 const routes = {
   '/': Pokemons,
-  '/fruits': Fruits
+  '/fruits': Fruits,
+  '/personality': Personality,
 };
 
 const currentPath = ref(window.location.hash);

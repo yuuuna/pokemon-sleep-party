@@ -3,7 +3,7 @@ import fruits from '@/json/fruits.json';
 </script>
 
 <template>
-    樹果清單
+    <h3>樹果清單</h3>
     <div class="row">
         <div v-for="fruit in fruits" class="fruit-card m-2 p-1 col-3 col-sm-2 col-lg-1" :class="`type-${fruit.type_en}`">
             <span class="fruit-title">{{ fruit.name }}</span>

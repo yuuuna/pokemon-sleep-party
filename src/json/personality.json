@@ -1,0 +1,152 @@
+[
+    {
+        "id": "0",
+        "name": "勤奮",
+        "promote": "無",
+        "decline": "無"
+    },
+    {
+        "id": "1",
+        "name": "怕寂寞",
+        "promote": "幫忙速度",
+        "decline": "活力回復量"
+    },
+    {
+        "id": "2",
+        "name": "固執",
+        "promote": "幫忙速度",
+        "decline": "食材發現率"
+    },
+    {
+        "id": "3",
+        "name": "頑皮",
+        "promote": "幫忙速度",
+        "decline": "主技能發動率"
+    },
+    {
+        "id": "4",
+        "name": "勇敢",
+        "promote": "幫忙速度",
+        "decline": "EXP獲得量"
+    },
+    {
+        "id": "5",
+        "name": "大膽",
+        "promote": "活力回復量",
+        "decline": "幫忙速度"
+    },
+    {
+        "id": "6",
+        "name": "坦率",
+        "promote": "無",
+        "decline": "無"
+    },
+    {
+        "id": "7",
+        "name": "淘氣",
+        "promote": "活力回復量",
+        "decline": "食材發現率"
+    },
+    {
+        "id": "8",
+        "name": "樂天",
+        "promote": "活力回復量",
+        "decline": "主技能發動率"
+    },
+    {
+        "id": "9",
+        "name": "悠閒",
+        "promote": "活力回復量",
+        "decline": "EXP獲得量"
+    },
+    {
+        "id": "10",
+        "name": "內斂",
+        "promote": "食材發現率",
+        "decline": "幫忙速度"
+    },
+    {
+        "id": "11",
+        "name": "慢吞吞",
+        "promote": "食材發現率",
+        "decline": "活力回復量"
+    },
+    {
+        "id": "12",
+        "name": "害羞",
+        "promote": "無",
+        "decline": "無"
+    },
+    {
+        "id": "13",
+        "name": "馬虎",
+        "promote": "食材發現率",
+        "decline": "主技能發動率"
+    },
+    {
+        "id": "14",
+        "name": "冷靜",
+        "promote": "食材發現率",
+        "decline": "EXP獲得量"
+    },
+    {
+        "id": "15",
+        "name": "溫和",
+        "promote": "主技能發動率",
+        "decline": "幫忙速度"
+    },
+    {
+        "id": "16",
+        "name": "溫順",
+        "promote": "主技能發動率",
+        "decline": "活力回復量"
+    },
+    {
+        "id": "17",
+        "name": "慎重",
+        "promote": "主技能發動機率",
+        "decline": "食材發現率"
+    },
+    {
+        "id": "18",
+        "name": "浮躁",
+        "promote": "無",
+        "decline": "無"
+    },
+    {
+        "id": "19",
+        "name": "自大",
+        "promote": "主技能發動機率",
+        "decline": "EXP獲得量"
+    },
+    {
+        "id": "20",
+        "name": "膽小",
+        "promote": "EXP獲得量",
+        "decline": "幫忙速度"
+    },
+    {
+        "id": "21",
+        "name": "急躁",
+        "promote": "EXP獲得量",
+        "decline": "活力回復量"
+    },
+    {
+        "id": "22",
+        "name": "爽朗",
+        "promote": "EXP獲得量",
+        "decline": "食材發現率"
+    },
+    {
+        "id": "23",
+        "name": "天真",
+        "promote": "EXP獲得量",
+        "decline": "主技能發動率"
+    },
+    {
+        "id": "24",
+        "name": "認真",
+        "promote": "無",
+        "decline": "無"
+    }
+]
